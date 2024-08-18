@@ -17,7 +17,7 @@ My Laptop + Specs:
 ```
 Lenovo Legion 5
 CPU
-	Intel Core i5 @ 2.50GHz
+	Intel Core i5-10500H @ 2.50GHz
 	Comet Lake 14nm Technology
 RAM
 	16,0GB DDR4
@@ -27,10 +27,9 @@ STORAGE
   512GB Samsung NVME SSD
   (more about... https://semiconductor.samsung.com/ssd/pc-ssd/pm981a/mzvlb512hbjq-00-00-07/)
 OS
-  Windows 11 Pro (hacked obviously :3333)
+  Windows 10 Pro
 ***
 ```
-## Play Connect 4!
 
 <!---
 NotHavocc/NotHavocc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
