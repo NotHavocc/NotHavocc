@@ -2,19 +2,16 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotHavocc)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NotHavocc&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-
-## Team Novagon contributior 🏆
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 # Current Info
 ***
-Interests : Arduinos and other MCUs
+Interests : old laptops, computers and Arduinos
 ***
-Name : NotHavoc (call me Havoc :3)
+Name : NotHavoc (call me Havoc)
 ***
-Country : Croatia! 🇭🇷
+Country : Croatian 🇭🇷
 ***
-My boards (as of now) : Arduino UNO (main), Dasduino Core, Raspberry PI Pico(wont fix, will use for project), ESP32 NodeMCU, Banana PI RP2040 (soon: Arduino UNO R4 WiFi)
+My boards (as of now) : ESP32 (main), Dasduino Core, Raspberry PI Pico, Arduino MKR1000, RaspberryPI 4B 4GB (i lost my uno :Sob:)
 ***
 My Laptop + Specs:
 ```
