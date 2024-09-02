@@ -1,37 +1,31 @@
-## Heya, im Havoc.
+## hey!
+im havoc. im a 13 year old backend dev that is interested with esp32 boards. i am from croatia.
+
+<img src="https://skillicons.dev/icons?i=arduino,cpp,python,raspberrypi,discord,git,vscode,github,linux,windows,debian">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotHavocc)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NotHavocc&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-![Jokes Card](https://readme-jokes.vercel.app/api)
-# Current Info
-***
-Interests : old laptops, computers and Arduinos
-***
-Name : NotHavoc (call me Havoc)
-***
-Country : Croatian 🇭🇷
-***
-My boards (as of now) : ESP32 (main), Dasduino Core, Raspberry PI Pico, Arduino MKR1000, RaspberryPI 4B 4GB (i lost my uno :Sob:)
-***
-My Laptop + Specs:
-```
-Lenovo Legion 5
-CPU
-	Intel Core i5-10500H @ 2.50GHz
-	Comet Lake 14nm Technology
-RAM
-	16,0GB DDR4
-GPU
-  4095MB NVIDIA GeForce RTX 3050 Laptop GPU
-STORAGE
-  512GB Samsung NVME SSD
-  (more about... https://semiconductor.samsung.com/ssd/pc-ssd/pm981a/mzvlb512hbjq-00-00-07/)
-OS
-  Windows 10 Pro
-***
-```
 
-<!---
-NotHavocc/NotHavocc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## laptop specs
+
+### Model
+- **Brand:** Lenovo
+- **Type:** Legion
+- **Model Number:** 5
+
+### CPU
+- **Model:** Intel Core i5-10500H @ 2.50GHz
+- **Architecture:** Comet Lake (14nm Technology)
+
+### RAM
+- **Size:** 16.0GB DDR4
+
+### GPU
+- **Model:** NVIDIA GeForce RTX 3050 Laptop GPU
+- **Memory:** 4GB / 4096MB
+
+### Storage
+- **Primary Drive:** 512GB Samsung NVMe SSD (PM981a)
+  - [More about this SSD](https://semiconductor.samsung.com/ssd/pc-ssd/pm981a/mzvlb512hbjq-00-00-07/)
+
+### Operating System
+- **OS:** Windows 10 Pro
