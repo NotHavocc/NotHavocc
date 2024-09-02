@@ -1,5 +1,5 @@
 ## hey!
-im havoc. im a 13 year old backend dev that is interested with esp32 boards. i am from croatia.
+im havoc. im a 13 year old backend dev that is interested with arduino boards. i am from croatia.
 
 <img src="https://skillicons.dev/icons?i=arduino,cpp,python,raspberrypi,discord,git,vscode,github,linux,windows,debian">
 
