@@ -2,5 +2,5 @@
 
 im havoc, a dev (somewhat) that makes stuff mostly in arduino and python (im learning rust and webdev).
 
-<img src="https://skillicons.dev/icons?i=arduino,cpp,python,raspberrypi,git,github,linux,windows,arch,javascript,html,css,rust">
+<img src="https://skillicons.dev/icons?i=arduino,cpp,python,raspberrypi,linux,apple,javascript,html,css,rust">
 
